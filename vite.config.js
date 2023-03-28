@@ -1,0 +1,1 @@
+resources/vite.config.js
